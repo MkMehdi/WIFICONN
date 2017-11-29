@@ -80,7 +80,7 @@ public class WifiFragment extends Fragment implements WifiContract.View, OnWifiL
 
         mManager = (WifiManager) mContext.getApplicationContext().getSystemService(Context.WIFI_SERVICE);
 
-       // mManager.setWifiEnabled(true);
+        mManager.setWifiEnabled(true);
 
         return view;
     }
@@ -148,9 +148,7 @@ public class WifiFragment extends Fragment implements WifiContract.View, OnWifiL
                 builder.setTitle(getString(R.string.operation_info))
                         .setMessage(errorDesc)
                         .setPositiveButton(mContext.getString(R.string.btn_setting), (dialog, which) -> {
-                            Intent intent = new Intent(Intent.ACTION_MAIN);
-                            intent.setClassName("com.android.phone", "com.android.phone.NetworkSetting");
-                            startActivity(intent);
+                                    mManager.setWifiEnabled(true);
                         })
                         .setIcon(android.R.drawable.ic_dialog_info)
                         .show();
@@ -182,6 +180,8 @@ public class WifiFragment extends Fragment implements WifiContract.View, OnWifiL
 
     @Override
     public void startScan() {
+     if(mManager.isWifiEnabled()){
+
         showProgress(true);
 
         fetchDevices();
@@ -189,6 +189,9 @@ public class WifiFragment extends Fragment implements WifiContract.View, OnWifiL
         showWifiDevices();
 
         showProgress(false);
+     }else{
+         showError(2,getString(R.string.desc_enable_wifi));
+     }
 
     }
 
