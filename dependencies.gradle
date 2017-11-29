@@ -1,0 +1,33 @@
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+ext {
+    supportVersion = '26.1.0'
+    constraintVersion = '1.0.0-beta4'
+    testRunnerVersion = '1.0.1'
+    espressoVersion = '3.0.1'
+    juniteVersion = '4.12'
+    easypermissionsVersion = '1.0.1'
+
+    androidDependencies = [
+            appcompat   : "com.android.support:appcompat-v7:${supportVersion}",
+            design      : "com.android.support:design:${supportVersion}",
+            recyclerview: "com.android.support:recyclerview-v7:${supportVersion}",
+            cardview    : "com.android.support:cardview-v7:${supportVersion}",
+            constraint  : "com.android.support.constraint:constraint-layout:${constraintVersion}"
+    ]
+
+    testDependencies = [
+            testRunner: "com.android.support.test:runner:${testRunnerVersion}",
+            espresso  : "com.android.support.test.espresso:espresso-core:${espressoVersion}",
+            junit     : "junit:junit:${juniteVersion}"
+    ]
+
+    googleDependencies = [
+            easypermissions: "pub.devrel:easypermissions:${easypermissionsVersion}"
+    ]
+
+}

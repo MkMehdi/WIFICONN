@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">WIFICONN</string>
+
+    <string name="operation_successful">Success</string>
+    <string name="operation_info">Information</string>
+    <string name="operation_warning">Warning</string>
+
+    <string name="desc_empty">No devices found</string>
+    <string name="desc_error">The requested resource not found, Try again please</string>
+    <string name="desc_enable_wifi">The app cannot work without enabling the wifi device</string>
+
+    <string name="btn_retry">Retry</string>
+    <string name="btn_setting">Setting</string>
+    <string name="btn_scan">Scan</string>
+    <string name="btn_connect">Connect</string>
+
+    <string name="text_address">Address :</string>
+    <string name="text_name">Name : </string>
+    <string name="text_password">Password</string>
+
+    <string name="rationale_wifi">This app needs access to your wifi</string>
+
+    <string name="wifi_detail"> SSID : %1$s \n Strength : %2$d \n BSSID : %3$s \n Frequency : %4$d
+    \n Capability : %5$s </string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="returned_from_app_settings_to_activity">
+        Returned from app settings to MainActivity with the following permissions:
+        \nLocation &amp; %s
+    </string>
+</resources>
