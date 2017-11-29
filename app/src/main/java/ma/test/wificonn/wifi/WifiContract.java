@@ -7,10 +7,8 @@ import ma.test.wificonn.BaseView;
 
 /**
  * Created by Elmehdi Mellouk on 28/11/17.
- * XPI
- * elmehdi.mellouk@xpi.com
+ * mellouk.elmehdi@gmail.com
  */
-
 public interface WifiContract {
 
     interface View extends BaseView<Presenter>{
