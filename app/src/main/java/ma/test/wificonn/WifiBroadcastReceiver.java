@@ -9,8 +9,7 @@ import ma.test.wificonn.wifi.listener.OnWifiListener;
 
 /**
  * Created by Elmehdi Mellouk on 28/11/17.
- * XPI
- * elmehdi.mellouk@xpi.com
+ * mellouk.elmehdi@gmail.com
  */
 
 public class WifiBroadcastReceiver extends BroadcastReceiver {
