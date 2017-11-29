@@ -2,8 +2,7 @@ package ma.test.wificonn.wifi;
 
 /**
  * Created by Elmehdi Mellouk on 28/11/17.
- * XPI
- * elmehdi.mellouk@xpi.com
+ * mellouk.elmehdi@gmail.com
  */
 
 public class WifiPresenter implements WifiContract.Presenter {
