@@ -147,7 +147,7 @@ public class WifiFragment extends Fragment implements WifiContract.View, OnWifiL
             case 2: // wifi not enable
                 builder.setTitle(getString(R.string.operation_info))
                         .setMessage(errorDesc)
-                        .setPositiveButton(mContext.getString(R.string.btn_setting), (dialog, which) -> {
+                        .setPositiveButton(mContext.getString(R.string.btn_connect), (dialog, which) -> {
                                     mManager.setWifiEnabled(true);
                         })
                         .setIcon(android.R.drawable.ic_dialog_info)
