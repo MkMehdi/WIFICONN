@@ -1,0 +1,97 @@
+
+57,451 code results
+@fajarnugrohoid
+fajarnugrohoid/AndroidStaticIp – debug.json
+Showing the top three matches
+Last indexed on Sep 30, 2018
+JSON
+[
+    {
+        "merged": "D:\\fajar\\android\\WifiConfigurationStaticIp\\WifiConfigurationStaticIp\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\FAJAR-NB\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5b4a8e160972919d229e62b3109e495f\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+@fajarnugrohoid
+fajarnugrohoid/AndroidStaticIp – compile-file-map.properties
+Showing the top match
+Last indexed on Sep 30, 2018
+INI
+#Thu Sep 20 11:40:53 ICT 2018
+C\:\\Users\\FAJAR-NB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\2d4d7564f218fed65b553ed9da2010c3\\res\\drawable\\abc_item_background_holo_light.xml=D\:\\fajar\\android\\WifiConfigurationStaticIp\\WifiConfigurationStaticIp\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat
+@shefalimsr
+shefalimsr/WifiLocator – compile-file-map.properties
+Showing the top match
+Last indexed on Jul 11, 2018
+INI
+#Thu Dec 28 15:37:32 IST 2017
+/Users/shivanshsharma/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6f60aaded3eceaf8d204bdbb1413371c/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png=/Users/shivanshsharma/Desktop/WifiLocation/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat
+@shefalimsr
+shefalimsr/WifiLocator – debug.json
+Showing the top two matches
+Last indexed on Jul 11, 2018
+JSON
+[
+    {
+        "merged": "/Users/shivanshsharma/Desktop/WifiLocation/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/shivanshsharma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0f4dc29927c9780ad238bcf868733e3b/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+@shefalimsr
+shefalimsr/WifiLocator – compile-file-map.properties
+Showing the top match
+Last indexed on Jul 11, 2018
+INI
+#Thu Dec 28 14:59:01 IST 2017
+/Users/shivanshsharma/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6f60aaded3eceaf8d204bdbb1413371c/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png=/Users/shivanshsharma/Desktop/WifiLocation/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat
+@shefalimsr
+shefalimsr/WifiLocator – debug.json
+Showing the top two matches
+Last indexed on Jul 11, 2018
+JSON
+[
+    {
+        "merged": "/Users/shivanshsharma/Desktop/WifiLocation/app/build/intermediates/res/merged/androidTest/debug/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "/Users/shivanshsharma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0f4dc29927c9780ad238bcf868733e3b/res/drawable/abc_tab_indicator_material.xml"
+@vaginessa
+vaginessa/WiFi-Fixer-dewens12 – manifest-merger-debug-report.txt
+Showing the top two matches
+Last indexed on Sep 3, 2018
+Text
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:22:1-245:12
+INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:22:1-245:12
+@vaginessa
+vaginessa/WiFi-Fixer-dewens12 – debug.json
+Showing the top two matches
+Last indexed on Sep 3, 2018
+JSON
+[
+    {
+        "merged": "C:\\Users\\ewens.HGSC\\Documents\\GitHub\\Wifi-Fixer\\build\\intermediates\\res\\merged\\debug\\layout-port_main.xml.flat",
+        "source": "C:\\Users\\ewens.HGSC\\Documents\\GitHub\\Wifi-Fixer\\res\\layout-port\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ewens.HGSC\\Documents\\GitHub\\Wifi-Fixer\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_background_color.xml.flat",
+@vaginessa
+vaginessa/WiFi-Fixer-dewens12 – compile-file-map.properties
+Showing the top four matches
+Last indexed on Sep 3, 2018
+INI
+C\:\\Users\\ewens.HGSC\\Documents\\GitHub\\Wifi-Fixer\\res\\drawable\\wifi.png=C\:\\Users\\ewens.HGSC\\Documents\\GitHub\\Wifi-Fixer\\build\\intermediates\\res\\merged\\debug\\drawable_wifi.png.flat
+C\:\\Users\\ewens.HGSC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\20673c360c56b1f20acb14ca2f0e9ad2\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png=C\:\\Users\\ewens.HGSC\\Documents\\GitHub\\Wifi-Fixer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat
+C\:\\Users\\ewens.HGSC\\Documents\\GitHub\\Wifi-Fixer\\res\\menu\\help.xml=C\:\\Users\\ewens.HGSC\\Documents\\GitHub\\Wifi-Fixer\\build\\intermediates\\res\\merged\\debug\\menu_help.xml.flat
+C\:\\Users\\ewens.HGSC\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-rc01.aar\\17296ff8b7d0f5365dba720920be6d54\\res\\layout\\design_text_input_password_icon.xml=C\:\\Users\\ewens.HGSC\\Documents\\GitHub\\Wifi-Fixer\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_password_icon.xml.flat
+@android-arsenal
+android-arsenal/apk28 – log.txt
+Showing the top two matches
+Last indexed 2 days ago
+Text
+2019-03-04 17:12:08,076 INFO  ProjectBuildService - Build script(s): /var/folders/bq/vtzpc5ns5sg2cthy61lqpg3dfzgbys/T/1551694250740-0/src/Wifi-Connect-master/app/build.gradle /var/folders/bq/vtzpc5ns5sg2cthy61lqpg3dfzgbys/T/1551694250740-0/src/Wifi-Connect-master/wifi-scanner/build.gradle /var/folders/bq/vtzpc5ns5sg2cthy61lqpg3dfzgbys/T/1551694250740-0/src/Wifi-Connect-master/build.gradle
+2019-03-04 17:12:08,081 INFO  ProjectBuildService - All script(s): /var/folders/bq/vtzpc5ns5sg2cthy61lqpg3dfzgbys/T/1551694250740-0/src/Wifi-Connect-master/wifi-scanner/build.gradle /var/folders/bq/vtzpc5ns5sg2cthy61lqpg3dfzgbys/T/1551694250740-0/src/Wifi-Connect-master/app/build.gradle /var/folders/bq/vtzpc5ns5sg2cthy61lqpg3dfzgbys/T/1551694250740-0/src/Wifi-Connect-master/build.gradle /var/folders/bq/vtzpc5ns5sg2cthy61lqpg3dfzgbys/T/1551694250740-0/src/Wifi-Connect-master/settings.gradle
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
